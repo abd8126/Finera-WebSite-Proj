@@ -1,23 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c20508af-5100-461a-80dd-75f97a93ce18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-single-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-single-one.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bJqpmyzmjNu4Yt8IJ2UapIxffZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c20508af-5100-461a-80dd-75f97a93ce18" name="Default Changelist" comment="" />
+      <created>1588360728590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588360728590</updated>
+      <workItem from="1588360729849" duration="5811000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1588360822213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588360822213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1588360830176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588360830176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1588360874470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588360874470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588360846547">
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588360874346">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588360846547" />
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588360843142">
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588360874346" />
+    <state x="779" y="448" width="351" height="211" key="Github.ShareDialog" timestamp="1588360901404">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588360843142" />
+    <state x="779" y="448" width="351" height="211" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588360901404" />
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588360887064">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588360887064" />
+    <state x="598" y="347" width="713" height="414" key="git4idea.merge.GitPullDialog" timestamp="1588361801536">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="598" y="347" width="713" height="414" key="git4idea.merge.GitPullDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588361801536" />
   </component>
 </project>
