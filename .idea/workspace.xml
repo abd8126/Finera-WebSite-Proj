@@ -3,7 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="c20508af-5100-461a-80dd-75f97a93ce18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-single-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-single-one.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/career-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-single-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/financial-modeling-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-single-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/mutual-funds-analysis-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/events-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/home-two.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-path.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588360728590</updated>
       <workItem from="1588360729849" duration="6728000" />
-      <workItem from="1588390663937" duration="1935000" />
+      <workItem from="1588390663937" duration="4392000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1588360822213</created>
@@ -74,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588392225642</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add name to the main heading">
+      <created>1588392671963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588392671963</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,21 +104,22 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="complete course content for course 1" />
     <MESSAGE value="complete course content for course 1 fix responsive content" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete course content for course 1 fix responsive content" />
+    <MESSAGE value="add name to the main heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="add name to the main heading" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588392224771">
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588392671733">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392224771" />
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392671733" />
     <state x="779" y="448" width="351" height="211" key="Github.ShareDialog" timestamp="1588360901404">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="779" y="448" width="351" height="211" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588360901404" />
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588392231073">
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588392683019">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392231073" />
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392683019" />
     <state x="598" y="347" width="713" height="414" key="git4idea.merge.GitPullDialog" timestamp="1588361801536">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
