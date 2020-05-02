@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20508af-5100-461a-80dd-75f97a93ce18" name="Default Changelist" comment="">
+    <list default="true" id="157807ab-336f-4ae6-b84b-f38ab1c62da0" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/career-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/career-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/components.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-single-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/financial-modeling-course.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-single-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/mutual-funds-analysis-course.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/events-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/home-two.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning-path.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutual-funds-analysis-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/mutual-funds-analysis-course.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,102 +33,44 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bJqpmyzmjNu4Yt8IJ2UapIxffZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="c20508af-5100-461a-80dd-75f97a93ce18" name="Default Changelist" comment="" />
-      <created>1588360728590</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1588360728590</updated>
-      <workItem from="1588360729849" duration="6728000" />
-      <workItem from="1588390663937" duration="4392000" />
-    </task>
-    <task id="LOCAL-00001" summary="init commit">
-      <created>1588360822213</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1588360822213</updated>
-    </task>
-    <task id="LOCAL-00002" summary="init commit">
-      <created>1588360830176</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1588360830176</updated>
-    </task>
-    <task id="LOCAL-00003" summary="init commit">
-      <created>1588360874470</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1588360874470</updated>
-    </task>
-    <task id="LOCAL-00004" summary="complete course content for course 1">
-      <created>1588366863871</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1588366863871</updated>
-    </task>
-    <task id="LOCAL-00005" summary="complete course content for course 1 fix responsive content">
-      <created>1588392225642</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1588392225642</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add name to the main heading">
-      <created>1588392671963</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1588392671963</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
-    <MESSAGE value="complete course content for course 1" />
-    <MESSAGE value="complete course content for course 1 fix responsive content" />
-    <MESSAGE value="add name to the main heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="add name to the main heading" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588392671733">
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588360846547">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392671733" />
-    <state x="779" y="448" width="351" height="211" key="Github.ShareDialog" timestamp="1588360901404">
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588360846547" />
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588360843142">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="779" y="448" width="351" height="211" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588360901404" />
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588392683019">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392683019" />
-    <state x="598" y="347" width="713" height="414" key="git4idea.merge.GitPullDialog" timestamp="1588361801536">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="598" y="347" width="713" height="414" key="git4idea.merge.GitPullDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588361801536" />
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588360843142" />
   </component>
 </project>
