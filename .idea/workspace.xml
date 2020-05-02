@@ -4,7 +4,6 @@
     <list default="true" id="c20508af-5100-461a-80dd-75f97a93ce18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-single-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/course-single-one.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588360728590</updated>
       <workItem from="1588360729849" duration="6728000" />
-      <workItem from="1588390663937" duration="1444000" />
+      <workItem from="1588390663937" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1588360822213</created>
@@ -68,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588366863871</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete course content for course 1 fix responsive content">
+      <created>1588392225642</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588392225642</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,21 +83,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="complete course content for course 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete course content for course 1" />
+    <MESSAGE value="complete course content for course 1 fix responsive content" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete course content for course 1 fix responsive content" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588366863668">
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2" timestamp="1588392224771">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588366863668" />
+    <state x="506" y="126" width="898" height="855" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392224771" />
     <state x="779" y="448" width="351" height="211" key="Github.ShareDialog" timestamp="1588360901404">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="779" y="448" width="351" height="211" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1588360901404" />
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588366867885">
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1588392231073">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588366867885" />
+    <state x="555" y="289" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1588392231073" />
     <state x="598" y="347" width="713" height="414" key="git4idea.merge.GitPullDialog" timestamp="1588361801536">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
